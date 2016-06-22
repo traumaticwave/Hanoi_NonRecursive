@@ -9,10 +9,10 @@ void hanoi(int, pole, pole, pole);
 int main()
 {
 	int height;
-	/*
 	cout << "Input the height of tower : ";
 	cin >> height;
 
+	/*
 	hanoi(height, FROM, BY, TO);
 	*/
 
